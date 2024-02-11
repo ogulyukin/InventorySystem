@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10e0df10cac4e40448c621c35d58b46d, type: 3}
+  m_Name: Bronze Helm
+  m_EditorClassIdentifier: 
+  itemID: 844e2d3c-3ac5-4715-8bcf-02d41f49c367
+  displayName: "\u0411\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0439 \u0448\u043B\u0435\u043C"
+  description: "\u041D\u0435\u043C\u043D\u043E\u0433\u043E \u043F\u043E\u043C\u044F\u0442\u044B\u0439
+    \u0438 \u043F\u043E\u0442\u0443\u0441\u043A\u043D\u0435\u0432\u0448\u0438\u0439
+    \u043E\u0442 \u0432\u0440\u0435\u043C\u0435\u043D\u0438 \u0431\u0440\u043E\u043D\u0437\u043E\u0432\u044B\u0439
+    \u0448\u043B\u0435\u043C"
+  icon: {fileID: 21300000, guid: 3c1b3d265d75f5c30b3bcd32efcc4b21, type: 3}
+  pickup: {fileID: 2245006465685386752, guid: 16d8a5e8afd324c4da18ae8a47734be8, type: 3}
+  stackable: 0
+  itemWeight: 3
+  allowedEquipLocation: 0
+  itemPrefabIndexes: 0f000000
+  itemPrefab: {fileID: 1505944631598042, guid: 0f3ee848571ea6a43942d52e44f32b06, type: 3}
+  externalItem: 1
+  strengthRequired: 40
+  additiveModifiers:
+  - stat: 8
+    value: 6
+  - stat: 3
+    value: 30
+  percentageModifiers: []

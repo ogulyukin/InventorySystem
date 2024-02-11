@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10e0df10cac4e40448c621c35d58b46d, type: 3}
+  m_Name: Hand01
+  m_EditorClassIdentifier: 
+  itemID: bdec561c-dcbb-415f-82ad-2d0a6df6f4db
+  displayName: "\u041D\u0430\u0440\u0443\u0447\u0438"
+  description: "\u041D\u0430\u0440\u0443\u0447\u0438 \u0438\u0437 \u0436\u0435\u0441\u0442\u043A\u043E\u0439
+    \u043A\u043E\u0436\u0438. \u041D\u0435\u043F\u043B\u043E\u0445\u043E \u0437\u0430\u0449\u0438\u0449\u0430\u044E\u0442
+    \u0440\u0443\u043A\u0438"
+  icon: {fileID: 21300000, guid: 47236e2003e15f5dea1c3c10d611f10f, type: 3}
+  pickup: {fileID: 2245006465685386752, guid: 16d8a5e8afd324c4da18ae8a47734be8, type: 3}
+  stackable: 0
+  itemWeight: 0
+  allowedEquipLocation: 7
+  itemPrefabIndexes: 0a0000000b0000001100000012000000
+  itemPrefab: {fileID: 0}
+  externalItem: 0
+  strengthRequired: 40
+  possiblePlayerVariants: 0101
+  additiveModifiers:
+  - stat: 8
+    value: 3
+  percentageModifiers: []

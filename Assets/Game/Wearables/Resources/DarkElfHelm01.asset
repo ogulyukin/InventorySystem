@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10e0df10cac4e40448c621c35d58b46d, type: 3}
+  m_Name: DarkElfHelm01
+  m_EditorClassIdentifier: 
+  itemID: 844e2d3c-3ac5-4715-8bcf-02d41f49c367
+  displayName: "\u0428\u043B\u0435\u043C \u0442\u0435\u043C\u043D\u044B\u0445 \u044D\u043B\u044C\u0444\u043E\u0432"
+  description: "\u0441\u0438\u044F\u044E\u0449\u0438\u0439 \u0448\u043B\u0435\u043C
+    \u0442\u0435\u043C\u043D\u044B\u0445 \u044D\u043B\u044C\u0444\u043E\u0432."
+  icon: {fileID: 21300000, guid: df4c341b8ef98fc58b69c20c284bb11b, type: 3}
+  pickup: {fileID: 2245006465685386752, guid: 16d8a5e8afd324c4da18ae8a47734be8, type: 3}
+  stackable: 0
+  itemWeight: 3
+  allowedEquipLocation: 0
+  itemPrefabIndexes: 0f000000
+  itemPrefab: {fileID: 1914292979359602, guid: c6326a5ccfc16f74db1df3ae6ed28d3b, type: 3}
+  externalItem: 1
+  strengthRequired: 40
+  possiblePlayerVariants: 0101
+  additiveModifiers:
+  - stat: 8
+    value: 6
+  percentageModifiers: []

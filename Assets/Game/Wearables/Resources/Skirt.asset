@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f20eb1792e8048a46bf5c7c520a3ea3b, type: 3}
+  m_Name: Skirt
+  m_EditorClassIdentifier: 
+  itemID: c669dcf3-5ea7-4171-82ae-26e5674d91ae
+  displayName: "\u042E\u0431\u043A\u0430"
+  description: "\u041A\u043E\u0440\u043E\u0442\u043A\u0430\u044F \u044E\u0431\u043A\u0430
+    \u0434\u043E \u043A\u043E\u043B\u0435\u043D \u0438\u0437 \u043A\u043E\u0436\u0438"
+  icon: {fileID: 21300000, guid: 17baeca4d091c9a02888bfec2eb0fad8, type: 3}
+  pickup: {fileID: 2245006465685386752, guid: 16d8a5e8afd324c4da18ae8a47734be8, type: 3}
+  stackable: 0
+  itemWeight: 1
+  allowedEquipLocation: 10
+  itemPrefabIndexes: 10000000
+  itemPrefab: {fileID: 0}
+  externalItem: 0
+  strengthRequired: 0
+  possiblePlayerVariants: 0101
